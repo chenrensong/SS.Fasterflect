@@ -2,11 +2,11 @@
 
 
 # SS.Fasterflect
-.net standard 2.0 版本 Fasterflect
+.net standard 2.0 鐗堟湰 Fasterflect
 
 [![NuGet Version](https://img.shields.io/nuget/v/ss.Fasterflect.svg?style=flat)](https://www.nuget.org/packages?q=ss.Fasterflect) 
 
-使用说明
+浣跨敤璇存槑
 =========================
-Fasterflect：http://fasterflect.codeplex.com/
+Fasterflect锛歨ttp://fasterflect.codeplex.com/
 
